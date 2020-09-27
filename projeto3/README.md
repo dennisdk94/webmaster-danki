@@ -10,7 +10,7 @@
 ### 💻 Rodando o Front End
 ```bash
 # Clone este repositório
-$ git clone https://github.com/dennisdk94/webmaster-danki/tree/master/projeto1
+$ git clone https://github.com/dennisdk94/webmaster-danki/tree/master/projeto3
 
 # Abra o arquivo index.html no seu navegador de preferência
 ```
